@@ -1,9 +1,0 @@
-# Build output
-public/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
