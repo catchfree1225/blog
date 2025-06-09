@@ -1,0 +1,28 @@
+# Hugo
+/public/
+/resources/_gen/
+/.hugo_build.lock
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Environment
+.env*
