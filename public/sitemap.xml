@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:12195/blog/</loc>
+    <loc>http://localhost:12341/blog/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:12195/blog/blog/</loc>
+    <loc>http://localhost:12341/blog/blog/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:12195/blog/blog/markdown/</loc>
+    <loc>http://localhost:12341/blog/blog/markdown/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:12195/blog/markdown-syntax-guide/</loc>
+    <loc>http://localhost:12341/blog/markdown-syntax-guide/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:12195/blog/blog/syntax/</loc>
+    <loc>http://localhost:12341/blog/blog/syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
 </urlset>
